@@ -1,1 +1,1 @@
-Đây là các hướng dẫn sử dụng GitHub trong dự án.
+Đây là các hướng dẫn sử dụng GitHub trong dự án phiên bản 2.
